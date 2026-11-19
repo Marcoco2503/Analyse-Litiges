@@ -38,7 +38,6 @@ Projet de fin d'étude/
 ├── README.md               # Guide d'installation et d'exploitation du projet
 └── csv/
     │
-    ├── complaints.csv      # CSV de base
     └── resultats_analyse_ia.csv # CSV sorti du scrypt csv-creation.py
 
 ---
